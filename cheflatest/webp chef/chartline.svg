@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<svg id="Line23" width="417" height="313" viewBox="0 0 417 313" fill="none" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; max-height: 100%;">
+<path d="M6.35547 3.60254L78.8558 139.603L144.855 146.603L210.356 271.102L368.856 160.103L409.856 310.602" stroke="url(#paint0_linear_844_994)" stroke-width="14" stroke-dasharray="0,0,0,710.6516723632812"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="1.9230769230769231s" values="0,0,0,710.6516723632812; 
+          0,355.3258361816406,355.3258361816406,0; 
+          710.6516723632812,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></path>
+<defs>
+<linearGradient id="paint0_linear_844_994" x1="12.6931" y1="-4.3751" x2="409.6" y2="310.925" gradientUnits="userSpaceOnUse">
+<stop stop-color="#CDFFD8"></stop>
+<stop offset="1" stop-color="#5C62D7"></stop>
+</linearGradient>
+</defs>
+</svg>
